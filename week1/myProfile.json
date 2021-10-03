@@ -1,0 +1,16 @@
+{
+    "name": "Kim Ye Eun",
+    "job": "Student",
+    "age": "21",
+    "hobby": "Lying down and looking at a smart phone",
+    "course_table": [
+        {"name": "경영과학2", "id": "IMEN266-01"},
+        {"name": "기업가정신과 기술혁신", "id": "IMEN110-02"},
+        {"name": "산업경영공학의 이해", "id": "IMEN200-01"},
+        {"name": "실험계획개론", "id": "IMEN242-01"},
+        {"name": "정보시스템기술", "id": "IMEN281-01"},
+        {"name": "제품생산공정설계1:캡스톤디자인", "id": "IMEN230-01"},
+        {"name": "확률및통계", "id": "MATH230-02"}
+    ]
+
+}
